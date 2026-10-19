@@ -1,0 +1,3 @@
+Aprendi a ligar o git à minha conta
+Aprendi a fazer o meu primeiro commit
+Aprendi a configurar o meu GitHub
